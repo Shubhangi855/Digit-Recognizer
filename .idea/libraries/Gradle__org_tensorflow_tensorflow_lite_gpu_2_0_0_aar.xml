@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.tensorflow:tensorflow-lite-gpu:2.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../sudoku-solver2/caches/transforms-2/files-2.1/0a06c254ca0298ad28ecdcd04af65cc0/jetified-tensorflow-lite-gpu-2.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../sudoku-solver2/caches/transforms-2/files-2.1/0a06c254ca0298ad28ecdcd04af65cc0/jetified-tensorflow-lite-gpu-2.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../sudoku-solver2/caches/transforms-2/files-2.1/0a06c254ca0298ad28ecdcd04af65cc0/jetified-tensorflow-lite-gpu-2.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
